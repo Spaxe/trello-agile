@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "Agile Trello",
+  "description": "This extension allows Trello to keep track of story points and more.",
+  "version": "1.0",
+
+  "permissions": [
+    "*://*.trello.com/"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*.trello.com/*"],
+      "css": ["agile-trello.css"],
+      "js": ["agile-trello.js"]
+    }
+  ]
+}
