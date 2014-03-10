@@ -3,7 +3,7 @@
 
   "name": "Trello Agile",
   "description": "This extension allows Trello to keep track of story points and more.",
-  "version": "1.01",
+  "version": "1.1",
 
   "permissions": [
     "*://*.trello.com/"
