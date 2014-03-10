@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "Agile Trello",
+  "name": "Trello Agile",
   "description": "This extension allows Trello to keep track of story points and more.",
   "version": "1.0",
 
